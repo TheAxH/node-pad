@@ -1,6 +1,10 @@
 /// <reference types='../types/wcwidth.d.ts' />
 import wcwidth from "wcwidth";
 
+if(1){
+  
+}
+
 interface WCWidthOptions {
   control?: number;
   nul?: number;
