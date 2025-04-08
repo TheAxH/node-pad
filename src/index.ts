@@ -2,7 +2,7 @@
 import wcwidth from "wcwidth";
 
 if(1){
-  
+  console.log("skibidi");
 }
 
 interface WCWidthOptions {
